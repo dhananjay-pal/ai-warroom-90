@@ -12,13 +12,6 @@ load_dotenv()
 claude = Anthropic()
 gpt = OpenAI()
 
-
-
-# PROMPT = "In exactly 3 sentences, explain why commodity prices spike during geopolitical tension."
-
-
-
-
 def call_claude(prompt, max_tokens):
     start = time.time()
     msg = claude.messages.create(
@@ -30,7 +23,6 @@ def call_claude(prompt, max_tokens):
         }]
     )
     elapsed = time.time() - start
-    # print(msg)
     return { 
         "modelname":msg.model, 
         "response":msg.content[0].text, 
