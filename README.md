@@ -22,7 +22,7 @@ Building in public for accountability and to share the journey honestly — incl
 
 ## Domain focus
 
-Commodity intelligence — connecting AI engineering capability to my domain at S&P Global (commodity research, market commentary, regulatory data).
+Commodity intelligence — connecting AI engineering capability to my domain commodity research, market commentary.
 
 ## Days
 
