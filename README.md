@@ -4,7 +4,7 @@ A 90-day intensive transition from senior backend engineering (.NET, 14 years) t
 
 ## Background
 
-I'm a software engineer with 14 years of backend experience, currently in commodity intelligence at S&P Global. I'm using AI engineering as my next specialization — focused on production-grade systems (RAG, agents, LLM integration), not academic ML.
+I'm a software engineer with 14 years of backend experience, currently in commodity insights at S&P Global. I'm using AI engineering as my next specialization — focused on production-grade systems (RAG, agents, LLM integration), not academic ML.
 
 ## Why public
 
